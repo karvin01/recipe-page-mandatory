@@ -1,0 +1,23 @@
+## SVG for vegetarien icon
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M15 11.063C12.53 13.65 10.059 20 10.059 20S6.529 11.063 3 9"/><path d="m20.496 5.577l.426 4.424c.276 2.87-1.875 5.425-4.745 5.702c-2.816.27-5.367-1.788-5.638-4.604a5.12 5.12 0 0 1 4.608-5.59l4.716-.454a.58.58 0 0 1 .633.522"/></g></svg>
+
+## SVG for magnify glass
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.5" d="M2 11a9 9 0 1 0 18 0a9 9 0 1 0-18 0m15.364 6.364L22 22"/></svg>
+
+## SVG for fish
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="24" cy="7" r="1" fill="currentColor"/><path fill="currentColor" d="M26 2a16.02 16.02 0 0 0-16 16v2H3a1 1 0 0 0-.707 1.707l8 8A1 1 0 0 0 12 29v-7h2A16.02 16.02 0 0 0 30 6V2ZM10 26.586L5.414 22H10ZM12 20v-2a13.94 13.94 0 0 1 3.908-9.678l7.77 7.77A13.94 13.94 0 0 1 14 20ZM28 6a13.9 13.9 0 0 1-2.98 8.606L17.395 6.98A13.9 13.9 0 0 1 26 4h2Z"/></svg>
+
+## SVG for pasta
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="currentColor" d="m11.414 15l-8-8L2 8.414L8.586 15H2v1a14 14 0 0 0 28 0v-1ZM16 28A12.017 12.017 0 0 1 4.042 17h23.917A12.017 12.017 0 0 1 16 28"/><path fill="currentColor" d="M22 8a5 5 0 0 0-1.57.255A8.02 8.02 0 0 0 14 5a7.94 7.94 0 0 0-4.906 1.68L4.414 2L3 3.414l6.05 6.05l.707-.707A5.96 5.96 0 0 1 14 7a6.02 6.02 0 0 1 4.688 2.264a5 5 0 0 0-.59.61A2.99 2.99 0 0 1 15.754 11H12v2h3.754a4.98 4.98 0 0 0 3.904-1.874A3 3 0 0 1 25 13h2a5.006 5.006 0 0 0-5-5"/></svg>
+
+## SVG for chicken
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1"><path stroke-linejoin="round" d="M2.243 2.246v1.562m4.563-1.562v1.562M4.525 1.083v1.562"/><path d="M11.509 4.602a.955.955 0 1 0 1.91 0a.955.955 0 1 0-1.91 0"/><path stroke-linejoin="round" d="m10.841 8.677l.212.093c1.48.7 1.889 1.606 1.889 2.85v.298a1 1 0 0 1-1 1H1.64c-.327 0-.634-.161-.76-.463c-.277-.669-.599-2.013.238-3.685c1.21-2.416 4.187-2.947 6.094-1.947l.09.046"/><path d="M10.158 10.006c.928-1.018.976-2.485.108-3.275s-2.323-.605-3.25.413c-.843.925-.96 2.219-.325 3.04q.097.127.217.235"/><path stroke-linejoin="round" d="M11.806 5.296L10.32 6.781"/></g></svg>
+
+## SVG for snacks
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M12 22q-2.075 0-3.9-.788t-3.175-2.137T2.788 15.9T2 12q0-1.875.725-3.675T4.75 5.112t3.125-2.275t4-.862q.525 0 1.075.05t1.125.175q-.225 1.125.15 2.125t1.125 1.662t1.788.913t2.137-.125q-.65 1.475.188 2.825T21.95 11q.025.275.038.512t.012.513q0 2.05-.788 3.862t-2.137 3.175t-3.175 2.15T12 22m-1.5-12q.625 0 1.063-.437T12 8.5t-.437-1.062T10.5 7t-1.062.438T9 8.5t.438 1.063T10.5 10m-2 5q.625 0 1.063-.437T10 13.5t-.437-1.062T8.5 12t-1.062.438T7 13.5t.438 1.063T8.5 15m6.5 1q.425 0 .713-.288T16 15t-.288-.712T15 14t-.712.288T14 15t.288.713T15 16m-3 4q3.05 0 5.413-2.1T20 12.55q-1.25-.55-1.963-1.5t-.962-2.125q-1.925-.275-3.3-1.65t-1.7-3.3q-2-.05-3.512.725T6.037 6.688T4.512 9.325T4 12q0 3.325 2.338 5.663T12 20m0-8.1"/></svg>
+
+## SVG for beef/pork
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M16.4 13.7A6.5 6.5 0 1 0 6.28 6.6c-1.1 3.13-.78 3.9-3.18 6.08A3 3 0 0 0 5 18c4 0 8.4-1.8 11.4-4.3"/><path d="m18.5 6l2.19 4.5a6.48 6.48 0 0 1-2.29 7.2C15.4 20.2 11 22 7 22a3 3 0 0 1-2.68-1.66L2.4 16.5"/><circle cx="12.5" cy="8.5" r="2.5"/></g></svg>
+
+## SVG for dessert
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><path d="M33.16 11.907a34 34 0 0 1 2.804-.606a3.72 3.72 0 0 1 3.249 1.031C41.307 14.401 45 19.16 45 27c0 7.423-.326 11.912-.606 14.397c-.179 1.59-1.417 2.757-3.01 2.912c-3.01.294-8.69.69-17.396.69c-8.7 0-14.368-.396-17.374-.69c-1.591-.155-2.829-1.321-3.008-2.91c-.263-2.338-.568-6.451-.603-13.116c-.004-.833.239-1.654.807-2.264c3.323-3.559 10.927-7.462 18.227-10.38"/><path d="M34 15a6 6 0 1 1-12 0a6 6 0 0 1 12 0"/><path d="M28 9c0-3.314-2.45-6-6-6m22 33H4m41-9H4"/></g></svg>
