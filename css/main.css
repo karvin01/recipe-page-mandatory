@@ -835,3 +835,174 @@ h3[data-category="chicken"] {
     line-height: 14px;
 }
 /*search page end*/
+
+/*details page start*/
+.recipe_details_hero p {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--primary_color);
+    margin-bottom: 15px;
+}
+
+.recipe_details_hero h1 {
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 400;
+    color: var(--color_white);
+}
+
+.recipe_details_hero h1 span {
+    text-transform: uppercase;
+    font-size: 37px;
+    font-weight: 800;
+    color: var(--color_white);    
+}
+
+.recipe_details_container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: var(--grid_gap); 
+    width: var(--width-12col);
+    margin: 0 auto;
+}
+.recipe_details {
+    grid-column: 1/7;
+    width: auto;
+    margin: 200px 0 0 0;
+}
+
+.recipe_details_stats {
+    display: flex;
+    flex-direction: row;
+    margin: 70px 0 0 0;
+    width: 550px;
+    justify-content: space-between;
+}
+.recipe_details_stats_time {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.recipe_details_stats_calories {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.recipe_details_stats_difficulty {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.recipe_details_stats_time h6,
+.recipe_details_stats_calories h6,
+.recipe_details_stats_difficulty h6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--color_white);
+}
+
+.recipe_details_stats_time svg,
+.recipe_details_stats_calories svg,
+.recipe_details_stats_difficulty svg {
+    height: 22px;
+    width: 22px;
+    color: var(--primary_color);
+    margin-right: 10px;
+} 
+
+.recipe_details_ingredients h6 {
+    text-transform: uppercase;
+    color: var(--color_light);
+    font-size: 14px;
+    font-weight: 700;
+    margin: 40px 0 10px 0;
+}
+
+.recipe_details_ingredients_list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--grid_gap); 
+    width: var(--width-12col);
+    margin: 0 0 15px 15px;
+}
+
+.recipe_details_ingredents_list_1 {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--color_light);
+}
+
+.recipe_details_ingredents_list_2 {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--color_light);
+}
+
+.recipe_details_picture {
+    grid-column: 8/13;
+    width: 461px;
+    height: 447px;
+    margin-top: 180px;
+    background-image: url("https://picsum.photos/461/447");
+}
+
+.recipe_details_buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 70px;
+}
+
+.recipe_details_buttons_print button {
+    background-color: var(--background_color_dark-bg);
+    border: 1px solid var(--color_light);
+    border-radius: 5px;
+    padding: 6px 12px;
+    width: 82px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+}
+
+.recipe_details_buttons_print button a {
+    color: var(--color_light);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.recipe_details_buttons_print button svg {
+    color: var(--color_light);
+    max-width: 28px;
+    max-height: 28px;
+}
+
+.recipe_details_buttons_favourite button {
+    background-color: var(--background_color_dark-bg);
+    border: 1px solid var(--color_light);
+    border-radius: 5px;
+    padding: 6px 12px;
+    width: 110px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+}
+
+.recipe_details_buttons_favourite button a {
+    color: var(--color_light);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 5px;
+}
+
+.recipe_details_buttons_favourite button svg {
+    color: var(--color_light);
+    max-width: 18px;
+    max-height: 18px;
+}
+/*details page end*/
