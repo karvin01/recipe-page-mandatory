@@ -1005,4 +1005,43 @@ h3[data-category="chicken"] {
     max-width: 18px;
     max-height: 18px;
 }
+
+.recipe_details_instructions {
+    width: var(--width-12col);
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 130px auto;
+    gap: var(--grid_gap);
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.recipe_details_headline {
+    width: 100%;
+    color: var(--background_color_light);
+    height: 45px;
+    border-bottom: 1px solid var(--background_color_light);
+    margin: 70px 0 0 0;
+    font-size: 37px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.recipe_details_instructions_list {
+    max-width: 600px;
+    max-height: fit-content;
+    margin: 40px 0px 200px 15px;
+}
+
+.recipe_details_instructions_list ol {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--color_light);
+}
+
+.recipe_details_instructions_list ol li {
+    margin-bottom: 20px;
+    line-height: 26px;
+}
 /*details page end*/
