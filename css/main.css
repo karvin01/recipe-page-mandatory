@@ -108,7 +108,7 @@ body, html{
 }
 
 .hero{
-    background-image: url("https://picsum.photos/800/600");
+    background-image: url("../images/hero.jpg");
     min-height: 600px;
     height: auto;
     background-size: cover;
@@ -201,6 +201,48 @@ body, html{
     background-size: cover;
     background-position: center;
     border-radius: 5px 5px 0 0;
+    background-color: var(--color_black);
+}
+
+.todays_recipes_content_block_image_altbg {
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px 5px 0 0;  
+    background-color: var(--color_light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todays_recipes_content_block_image_altbg img {
+    max-width: 154px;
+    max-height: 124px;
+}
+
+.todays_recipes_content_block_image_altbg_top_left {
+    align-items: flex-start;
+    overflow: hidden;
+    position: relative;
+    height: 200px;
+    width: 100%;
+    display: block;
+}
+
+.todays_recipes_content_block_image_altbg_top_left img {
+    clip-path: inset(30% 0 0 20%);
+    max-width: 209px;
+    max-height: 158px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-20%, -30%);
+    width: auto;
+    height: 160%;
+    object-fit: cover;
+    object-position: left top;
+    display: block;
 }
 
 .todays_recipes_content {
@@ -423,10 +465,14 @@ svg[data-category="renewable"] {
 
 /*image section area start*/
 .image_section {
-    background-image: url('https://picsum.photos/3300/600');
+    background-image: url("../images/allstar.jpg");
     width: 100%;
     height: 600px;
     clip-path: polygon(0 0, 100% 15%, 100% 100%, 0% 100%);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: var(--background_color_dark-bg);
 }
 
 .image_section_box {
@@ -512,12 +558,23 @@ svg[data-category="renewable"] {
     padding-bottom: 45px;
 }
 
+.content_area_block_box img {
+    max-height: 380px;
+    height: 100%;
+    max-width: 600px;
+    width: 100%;
+    object-fit:cover;
+    object-position: center;
+    display: block;
+}
+
 .content_area_block_box {
     height: 380px;
     background-color: var(--background_color_light);
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
 }
 
 .content_area_block_box h5 {
@@ -946,8 +1003,19 @@ h3[data-category="chicken"] {
     width: 461px;
     height: 447px;
     margin-top: 180px;
-    background-image: url("https://picsum.photos/461/447");
+    clip-path: circle(50% at center);
+    overflow: hidden;
+    position: relative;
 }
+
+.recipe_details_picture img {
+    position: absolute;
+    max-width: 1300px;
+    max-height: 840px;
+    top: -168px;
+    left: -616px;
+}
+
 
 .recipe_details_buttons {
     display: flex;
