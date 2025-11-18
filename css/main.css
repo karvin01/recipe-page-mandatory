@@ -117,7 +117,7 @@ body{
 }
 
 .hero{
-    background-image: url("../images/hero.jpg");
+    background-image: url("images/hero.jpg");
     min-height: 600px;
     height: auto;
     background-size: cover;
